@@ -9,4 +9,4 @@
      其中：
    - 工作区 ---> 储藏区 : `git add -- filename`  
    - 储藏区 ---> 工作区 : `git reset -- filename`   
-   - 储藏区 ---> 本地仓库 : `git commit -m`
+   - 储藏区 ---> 本地仓库 : `git commit -m "message"`
