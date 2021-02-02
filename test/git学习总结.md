@@ -32,3 +32,4 @@
 4. 版本退回：
    - 版本退回命令 : `git reset --hard xxxxx`
    - 查看退回历史以及未来的提交 ： `git reflog`
+
